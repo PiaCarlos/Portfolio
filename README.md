@@ -15,17 +15,10 @@ Contains projects built with vanilla JavaScript/HTML/CSS. Each project has its o
 Folder: `C/`  
 Contains C projects. Each project has its own repository.
 
-## Python Projects
+## World Vision Canada and Python Projects
 Folder: `World Vision Canada/`  
 Mostly Python and SQL projects from my internship. These are some of the files I was able to keep.
 
-## MATLAB Projects
-Folder: `MATLAB/`  
-Contains MATLAB projects. Each project has its own repository.
-
-## MIPS Assembly Projects
-Folder: `MIPS Assembly/`  
-Contains MIPS Assembly projects. Each project has its own repository.
 
 ## How to Use
 1. Browse the folders by programing language.  
