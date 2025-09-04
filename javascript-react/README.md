@@ -1,7 +1,7 @@
 🌐 Web Projects Portfolio (HTML, CSS, JavaScript, React)
 This portfolio highlights my frontend web development projects built with HTML, CSS, JavaScript and react.
 Each project showcases different aspects of UI design, interactivity, and client-side functionality.
-Below you'll find summaries of the projects, with links to the repositories (to be added).
+Below you'll find summaries of the projects
 
 🔹 Amazon Clone
 A simplified Amazon-style e-commerce website built with vanilla JavaScript.
