@@ -27,6 +27,10 @@ Contains MIPS Assembly projects. Each project has its own repository.
 Folder: `C/`  
 Contains C projects. Each project has its own repository.
 
+## Java Projects
+Folder: `java/`  
+Contains Java projects. Each project has its own repository.
+
 ## How to Use
 1. Browse the folders by programing language.  
 2. Open a folder to read its README.  
