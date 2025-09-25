@@ -1,4 +1,4 @@
-# My Developer Portfolio
+# My Developer Portfolio - Carlos Alvarado
 
 This repository serves as a central hub for all of my projects.  
 Projects are organized by language, and each folder contains a README with descriptions and links to the individual project repositories.
