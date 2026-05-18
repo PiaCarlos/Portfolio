@@ -23,10 +23,6 @@ Contains mostly Python and SQL projects from my internship. These are some of th
 Folder: `Verge/`  
 A large CRPG video game project developed in Unity by a team of 8 people. I was the team leader during the project.
 
-## Other Unity Games Developed in C#
-Folder: `C#_Unity/`  
-Contains games that I developed personally and during school projects.
-
 ## C++ Projects
 Folder: `C++/`  
 Contains C++ projects. Each project has its own repository.
